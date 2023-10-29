@@ -1,5 +1,5 @@
 import pytest
-from parser import URLParser
+from src.parser import URLParser
 
 
 @pytest.fixture
